@@ -1,0 +1,95 @@
+.registerEvent {
+    width: 100%;
+}
+
+.textHeader {
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.textbox {
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    padding-left: 1.5%;
+    width: 98%;
+    height: 100%;  
+}
+
+.halfTextbox {
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 0.8%;
+    width: 46.5%;
+    height: 100%;
+    float: left;
+}
+
+.largeTextbox {
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    padding-left: 1.5%;
+    width: 98%;
+    height: 175px; 
+}
+
+.largeTextbox::placeholder {
+    font-family: Arial;
+}
+
+#time {
+    float: right;
+}
+
+.form {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.textboxText {
+    font-size: 15px;
+    margin-bottom: 1%;
+}
+
+.halfTextboxText {
+    font-size: 15px;
+    width: 50%;
+    float: left;
+    margin-bottom: 1%;
+}
+
+#timeText {
+    width: 49%;
+    padding-left: 1%;
+}
+
+.middleRow {
+    margin-bottom: 14.9%;
+}
+
+.postEventOnPage {
+    width: 25%;
+    text-align: center;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    margin-top: 2%;
+    border-radius: 10px;
+    border: 1px solid #000;
+    overflow: hidden;
+    margin-bottom: 1%;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+}

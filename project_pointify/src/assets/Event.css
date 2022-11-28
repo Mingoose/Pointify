@@ -1,0 +1,42 @@
+.wrapper {
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    width: 65%;
+    height: 70vh;  
+    margin-top: 7.5vh;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+}
+
+.eventTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.eventDesc {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.whereabouts {
+    padding-left: 10%;
+    font-weight: bold;
+}
+
+.date {
+    display: inline-block;
+    font-weight: normal;
+}
+
+.times {
+    display: inline-block;
+    font-weight: normal;
+}
+
+.place {
+    display: inline-block;
+    font-weight: normal;
+}

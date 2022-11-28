@@ -1,0 +1,32 @@
+.banner {
+  background-color: #C4C4C4;
+  overflow: hidden;
+}
+
+.text {
+  cursor: pointer;
+  float: left;
+  font-weight: 500;
+  font-size: larger;
+  color: inherit; 
+  text-decoration: inherit;
+  padding: 10px 0px 4px 10px;
+  cursor: pointer;
+}
+
+#icon {
+  padding: 5px 5px 5px 0px;
+  float: right;
+  width: 2.5%;
+  cursor: pointer;
+}
+
+#logout {
+  cursor: pointer;
+  float: right;
+  font-weight: 500;
+  font-size: larger;
+  color: inherit; 
+  text-decoration: inherit;
+  padding: 10px 10px 4px 10px;
+}

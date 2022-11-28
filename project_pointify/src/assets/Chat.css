@@ -1,0 +1,39 @@
+.chatScroll {
+  width: 35%;
+  height: 200px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin-top: 1%;
+  margin-right: 5%;
+}
+
+.chatUser {
+  width: 98%;
+  float: right;
+  border-radius: 5px;
+  border: 1px solid #000;
+  overflow: hidden;
+  margin-bottom: 1%;
+  flex: 1;
+}
+
+.friendsText {
+  float: left;
+  display: flex;
+  width: 55%;
+  align-items: center;
+  margin-left: 5%;
+  flex: 1;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: 3%;
+  height: 200px;
+}
+
+.friendsContainer {
+  display: flex;
+}
+
+.link2 {
+  padding-left: 20px;
+}

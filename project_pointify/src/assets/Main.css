@@ -1,0 +1,78 @@
+.main {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.brandName {
+    font-size: 45px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+#textbox {
+    margin-top: -2%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 100%;
+    height: 100%;  
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.eventScroll {
+    width: 100%;
+    height: 52vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.event {
+    width: 97.5%;
+    border-radius: 10px;
+    border: 1px solid #000;
+    overflow: hidden;
+    margin-bottom: 1%;
+}
+
+.desc {
+    float: left;
+    padding-left: 15px;
+    width: 57%;
+}
+
+.time {
+    float: left;
+    width: 27%;
+    padding-left: 5px;
+}
+
+.link {
+    float: left;
+    width: 13%;
+    color: blue; 
+    text-decoration: inherit; 
+    cursor: pointer;
+}
+
+.postEvent {
+    cursor: pointer;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 6%;
+    border-radius: 10px;
+    border: 1px solid #000;
+    overflow: hidden;
+    margin-bottom: 1%;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+}

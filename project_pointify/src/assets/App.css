@@ -1,0 +1,80 @@
+.bannerText {
+  font-size: 30px;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.login {
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+#loginText {
+  font-size: 40px;
+  text-align: center;
+}
+
+#forgottenPassword{
+  color: blue;
+  cursor: pointer;
+  text-align: left;
+}
+
+#desc {
+  text-align: center;
+}
+
+#spacer {
+  padding: 16px;
+}
+
+.username {
+  border-radius: 2px;
+  border: 1px solid #000;
+  padding-top: 20px; 
+  padding-bottom: 20px;
+  padding-left: 10px;
+  width: 97%;
+  height: 100%;  
+}
+
+.password {
+  border-radius: 2px;
+  border: 1px solid #000;
+  padding-top: 20px; 
+  padding-bottom: 20px;
+  padding-left: 10px;
+  width: 97%;
+  height: 100%;  
+}
+
+input::value {
+  padding-left: 10px;
+}
+
+.button {
+  cursor: pointer;
+  border: none;
+  width: 100%;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#left {
+  float: left;
+  margin-top: 32px;
+}
+
+#right {
+  float: right;
+  margin-top: 32px;
+}
+
+.error {
+  text-align: center;
+  font-size: smaller;
+  color: red;
+  margin-left: 15%;
+  margin-right: 15%;
+}
